@@ -1,0 +1,42 @@
+# E-commerce User Funnel Analysis
+
+## Overview
+This project analyzes e-commerce user behavior based on event-level data. 
+The goal is to understand user activity, acquisition channels, device usage, and conversion funnel performance.
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## Dataset
+The dataset contains user interaction events, including:
+- user activity
+- session data
+- device information
+- marketing channel
+- user funnel events
+
+## Analysis Performed
+
+### 1. Active Users by Country
+Analyzed the most active countries during Q2 2025 based on unique users.
+
+### 2. Monthly Active Users by Channel
+Compared user activity trends across different acquisition channels.
+
+### 3. Device Usage Analysis
+Identified the most frequently used devices based on unique sessions.
+
+### 4. Search-to-Add-to-Cart Conversion
+Measured the percentage of users who moved from product search to adding items to cart.
+
+## Key Insights
+- Country X had the highest number of active users in Q2 2025.
+- Channel performance varied across months.
+- Mobile devices contributed the highest number of sessions.
+- Search-to-add-to-cart conversion rate was XX%.
+
+## Recommendation
+Improving user experience on high-traffic channels and optimizing mobile shopping flow may help increase conversion.
